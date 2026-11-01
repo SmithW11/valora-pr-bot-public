@@ -28,7 +28,7 @@ The Bot communicates strictly with official third-party APIs to deliver its serv
 ## 5. Data Retention & Deletion Rights
 Under Discord's Developer Policy, you have the right to request access to or deletion of your stored data.
 
-* **Retention:** Stored data is retained for as long as you remain a member of [Server Name] or until deleted by a server developer/administrator.
+* **Retention:** Stored data is retained for as long as you remain a member of Valora Stores PR Hub, or until deleted by a server developer/administrator.
 * **Deletion Requests:** You can request that your linked Roblox ID, custom point balances, or profile data be permanently deleted by opening a support ticket in Valora Stores PR Hub or emailing `smithw11@valora.firxd.me`.
 * *Note: Active server moderation history may be retained where necessary to maintain server safety and enforce rules.*
 
